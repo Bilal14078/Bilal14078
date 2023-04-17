@@ -10,7 +10,7 @@
 <div>
   
   <p>
-    I'm a Senior Software Engineer at Systems Limited. I'm a Full Stack Developer with experience around 4 years in Angular 2+ , Asp.net and ROR.
+    I'm a Senior Software Engineer at Systems Limited. I'm a Full Stack Developer with experience around 5 years in Angular 2+ , Asp.net and ROR.
   </p>
   <p>
 I'm graduated from Punjab University College of Information and Technlogy with CGPA 3.24. I love to learn latest technlogy articles and also develop sample application for learning new technologies.
